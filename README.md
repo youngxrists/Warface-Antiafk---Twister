@@ -1,4 +1,4 @@
-# Warface-Antiafk---Twister
+# Warface_Antiafk-Twister
 
 Простой AntiAfk на Ahk для Warface
 
